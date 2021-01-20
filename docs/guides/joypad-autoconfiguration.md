@@ -67,7 +67,7 @@ If you are happy with your profile, you can submit it to RetroArch so that other
 
 ## Troubleshooting
 
-If your joypad is not configured properly, you should [generate a RetroArch log](/docs/guides/generating-retroarch-logs.md). Your log will show if a profile has been matched for your pad and the path of the corresponding profile.
+If your joypad is not configured properly, you should [generate a RetroArch log](/guides/generating-retroarch-logs). Your log will show if a profile has been matched for your pad and the path of the corresponding profile.
 
 ## Joypad auto-configuration file
 
